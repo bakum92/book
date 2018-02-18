@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /files/
+Allow: /mobile/
+Disallow: /README.md
+Host: bakum92.github.io/book
+User-agent: Googlebot
+Disallow: /files/
+Allow: /mobile/
+Disallow: /README.md
+Host: bakum92.github.io/book
+Sitemap: https://github.com/bakum92/book
